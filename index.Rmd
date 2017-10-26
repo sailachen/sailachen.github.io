@@ -6,4 +6,4 @@ title: "Saila Chen"
 
 This is my first personal website, it is not perfect, but I'll improve it continuously, and hope you'll like it!
 
-<img src="./welcome.jpeg"style="width:150%">
+<img src="./welcome.jpeg"style="width:151%">
