@@ -4,4 +4,4 @@ title: "Saila Chen"
 
 ##<span style="color:violet">Here is my resume:</span>
 
-<img src="resume.pdf" alt="some text"  width="4200" height="4200">
+<img src="Resume.pdf" alt="some text"  width="4200" height="4200">
