@@ -7,10 +7,14 @@ navbar:
       href: about.html
     - text: "Facebook"
       href: https://www.facebook.com/profile.php?id=100006578382219
+    - text: "Linkedln"
+      href: https://www.linkedin.com/feed/
+    - text: "Data Science Project"
+      href: https://www.youtube.com/watch?v=gKTbngKyjgc&t=8s
     - icon: fa-envelope fa-lg
       href: mailto:<sc4280@cumc.columbia.edu>
     - icon: fa-github fa-lg
-      href: http://github.com/sailachen/
+      href: http://github.com/sailachen
     
 output:
   html_document:

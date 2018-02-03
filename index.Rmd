@@ -5,5 +5,18 @@ title: "Saila Chen"
 ### <span style="color:violet">Welcome to My first webpage!</span>
 
 This is my first personal website, it is not perfect, but I'll improve it continuously, and hope you'll like it!
+<img src="./WechatIMG38.jpeg"style="width:150%">
 
-<img src="./welcome.jpeg"style="width:150%">
+### <span style="color:Violet">Something About Me:</span>
+
+My Hobbies: Swimming,Roller Skating, Traveling, Cooking, Listening Music, I like animals very much, especially dog, cat and hamster!
+
+Personalities:  Outgoing,Friendly, Patient, Creative, Steady. 
+
+Career Goal: I want to get a job that falls into the intersection of human health field and statistical field.  
+
+
+
+
+
+
