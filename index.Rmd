@@ -5,7 +5,7 @@ title: "Saila Chen"
 ### <span style="color:violet">Welcome to My first webpage!</span>
 
 This is my first personal website, it is not perfect, but I'll improve it continuously, and hope you'll like it!
-<img src="./WechatIMG38.jpeg"style="width:150%">
+<img src="./WechatIMG40.jpeg"style="width:150%">
 
 ### <span style="color:Violet">Something About Me:</span>
 
